@@ -12,7 +12,7 @@ def main():
     if notafinal > 100:
         notafinal = 100
 
-    notas(notafinal)
+    notas(notafinal,nombreestudiante)
     
     
  
