@@ -1,6 +1,7 @@
 from gradanator import *
 from grades import *
 
+
 def main():
     banner()
     
@@ -14,7 +15,5 @@ def main():
 
     notas(notafinal,nombreestudiante)
     
-    
- 
-    
+
 main()

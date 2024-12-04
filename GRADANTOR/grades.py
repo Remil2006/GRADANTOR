@@ -12,3 +12,4 @@ def notas(notafinal,estudiante):
         print(f"Has sacado una D, tienes que estudiar un poco mas {estudiante}")
     else:
         print(f"has sacaod una F, has suspendido {estudiante} tienes que estudiar mucho mas para sacar una buena nota")
+        

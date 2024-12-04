@@ -1,0 +1,17 @@
+Bienvenido/a al programa que evalua la qualificacion, instruciones: Al ejecutar el programa, verás un mensaje de bienvenida que te indicará que estás en el programa de evaluación de calificaciones.
+El programa te pedirá que ingreses el nombre del estudiante. Escribe el nombre y presiona Enter.
+Luego, se te solicitará que ingreses las puntuaciones y los pesos de los exámenes y trabajos. Sigue las instrucciones en pantalla:
+Para el Examen 1:
+Ingresa la puntuación obtenida (de 0 a 100).
+Ingresa el peso del examen (por ejemplo, 30 si el examen representa el 30% de la nota final).
+Para el Examen 2:
+Repite el mismo proceso que para el Examen 1.
+Para el Examen Final:
+Ingresa la puntuación obtenida.
+Ingresa el peso del examen final.
+Para los Trabajos:
+Ingresa la cantidad de trabajos que se han realizado.
+Ingresa el peso general que estos trabajos representan en la calificación final.
+Para cada trabajo, ingresa la puntuación obtenida.
+Finalmente, ingresa la puntuación de la nota final (si aplica).
+------------------------------------------------------------------

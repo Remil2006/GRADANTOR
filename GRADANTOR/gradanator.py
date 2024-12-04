@@ -1,5 +1,8 @@
 def banner():#FALTA la instruciones
-    print("Bienvenido/a al programa que evalua la qualificacion, instruciones")
+    f = open("Bienvenida.txt","r")
+    print(f.read())
+
+    f.close()
     
 
 
